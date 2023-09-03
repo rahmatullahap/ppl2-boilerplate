@@ -13,13 +13,13 @@
 ### Breakdown Task:
 #### Commitment: x SP
 - Fulan1: x SP
-  - TASK-1 x SP
-  - TASK-2 x SP
+  - [ ] TASK-1 x SP
+  - [ ] TASK-2 x SP
 - Fulan2: x SP
-  - TASK-3 x SP
-  - TASK-4 x SP
+  - [ ] TASK-3 x SP
+  - [ ] TASK-4 x SP
 - Fulanah: x SP
-  - TASK-5 x SP
+  - [ ] TASK-5 x SP
 
 #### Delivered:	 x SP
 ### During Sprint
