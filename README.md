@@ -1,1 +1,1 @@
-# ppl2-boilerplate
+# Proyek Perangkat Lunak II - Boilerplate
